@@ -391,7 +391,7 @@ This project is open-sourced software licensed under the [MIT license](https://o
 
 ## 📧 Support
 
-If you encounter any issues or have questions, please open an issue in the repository or contact the development team.
+If you encounter any issues or have questions, please open an issue in the repository
 
 ---
 
